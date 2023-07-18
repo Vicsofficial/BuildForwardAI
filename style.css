@@ -1,0 +1,147 @@
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    max-width: 90vw;
+    margin: 0 auto;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    color: #333333;
+}
+
+nav {
+    margin: 20px;
+    box-shadow: 30px 30px 30px 30px rgb(222, 222, 222);
+    margin-bottom: 50px;
+    border-radius: 33px;
+}
+
+nav img {
+    padding: 40px;
+    height: 100px;
+    width: 250px;
+}
+
+nav ul li {
+    margin: 10px;
+    align-items: right;
+    display: inline-block;
+    display: block;
+}
+
+.sec-1 {
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 100px;
+    margin-top: 100px;
+}
+
+.sec-1-left {
+    margin: 20px;
+    padding: 20px;
+    padding-top: 120px;
+}
+
+.join-button {
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 100px;
+    background-color: #5271ff;
+    color: white !important;
+    font-weight: bold;
+}
+
+.join-button:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.join-button:hover {
+    background-color: #4265ff;
+    text-decoration: none;
+}
+
+.sec-1-right {
+    margin: 20px;
+}
+
+.main {
+    height: 500px;
+    width: 700px;
+    padding: 20px;
+    border-radius: 33px;
+    box-shadow: 30px 30px 30px 30px rgb(222, 222, 222);
+    background-image: url(ai-technology-microchip-background-futuristic-innovation-technology-remix.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+form {
+    margin: 20px;
+    border-radius: 30px;
+    background-color: #f1f1f1;
+    padding: 50px;
+}
+
+h2 {
+    font-size: 33px;
+}
+
+input {
+    width: 500px;
+    height: 25px;
+    border: none;
+    border-radius: 11px;
+    padding: 10px;
+}
+
+textarea {
+    width: 500px;
+    height: 33px;
+    border: none;
+    border-radius: 11px;
+    padding: 10px;
+}
+
+.submit {
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 100px;
+    background-color: #5271ff;
+    color: white;
+    font-weight: bold;
+}
+
+.submit:hover {
+    background-color: #4265ff;
+    box-shadow: 30px 30px 30px 30px rgb(222, 222, 222);
+}
+
+footer {
+    margin: 20px;
+    padding: 50px;
+    border-radius: 30px;
+    background-color: #f1f1f1;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
